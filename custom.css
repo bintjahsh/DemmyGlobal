@@ -1,0 +1,12 @@
+/* widget-body-funder{
+    margin: auto !important;
+    padding: 5% !important;
+    justify-content: center !important;
+    align-items: center !important;
+}
+label .funder{
+    text-align: center !important;
+} */
+.walletbn{
+    justify-content: space-around !important;
+}
